@@ -1,0 +1,28 @@
+{
+	"name": "dnd-spell-randomizer",
+	"version": "1.0.0",
+	"description": "A Node.js CLI tool to randomize and filter 5th edition D&D spells.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"dnd",
+		"dnd5e",
+		"dungeons-and-dragons",
+		"spells",
+		"randomizer",
+		"cli",
+		"command-line",
+		"nodejs",
+		"api",
+		"filter"
+	],
+	"author": "Connor Swanson",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.7.2",
+		"commander": "^12.1.0",
+		"express": "^4.19.2"
+	}
+}
